@@ -1,0 +1,113 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+
+
+body {
+	background-color: tan;
+	background-image:url('../img/creampaper.png');
+
+}
+h1, h2, h3, h4 {
+	font-family: 'Meddon', cursive;
+}
+.nav {
+	text-align: center;
+}
+.jumbotron {
+	background-image:url('../img/nasty_fabric.png');
+	margin-top: -20px;
+}
+.jumbotron h1 {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+	font-family: 'Meddon', cursive;
+}
+
+.bottom-border {
+	background-color: brown;
+	min-height: 10px;
+}
+
+
+
+.top-third {
+	padding-top: 10px;
+}
+
+
+ .image-wrap-1 {
+    -webkit-box-shadow: inset 0px 0px 10px 1px rgba(0, 0, 0, .8);   
+     box-shadow: inset 0px 0px 10px 1px rgba(0, 0, 0, .8);
+	-webkit-border-radius: 50em;
+	-moz-border-radius: 50em;
+	border-radius: 50em;
+	position: relative;
+	display: inline-block;
+	background: url(../img/front_img_1.jpg) no-repeat center center;
+	background-size: 280px;
+	width: 250px;
+	height: 250px;
+
+}
+
+.image-wrap-2 {
+    -webkit-box-shadow: inset 0px 0px 10px 1px rgba(0, 0, 0, .8);   
+     box-shadow: inset 0px 0px 10px 1px rgba(0, 0, 0, .8);
+	-webkit-border-radius: 50em;
+	-moz-border-radius: 50em;
+	border-radius: 50em;
+	position: relative;
+	display: inline-block;
+	background: url(../img/front_img_2.jpg) no-repeat center center;
+	background-size: 340px;
+	width: 250px;
+	height: 250px;
+
+}
+
+.image-wrap-3 {
+    -webkit-box-shadow: inset 0px 0px 10px 1px rgba(0, 0, 0, .8);   
+     box-shadow: inset 0px 0px 10px 1px rgba(0, 0, 0, .8);
+	-webkit-border-radius: 50em;
+	-moz-border-radius: 50em;
+	border-radius: 50em;
+	position: relative;
+	display: inline-block;
+	background: url(../img/front_img_3.jpg) no-repeat center center;
+	background-size: 340px;
+	width: 250px;
+	height: 250px;
+
+}
+
+.image-wrap-4 {
+    -webkit-box-shadow: inset 0px 0px 10px 1px rgba(0, 0, 0, .8);   
+     box-shadow: inset 0px 0px 10px 1px rgba(0, 0, 0, .8);
+	-webkit-border-radius: 50em;
+	-moz-border-radius: 50em;
+	border-radius: 50em;
+	position: relative;
+	display: inline-block;
+	background: url(../img/front_img_4.jpg) no-repeat center center;
+	background-size: 280px;
+	width: 250px;
+	height: 250px;
+
+}
+
+.circle  {
+
+opacity: 0.0;
+
+}
+
+.text-box h3 {
+	text-align: center;
+}
